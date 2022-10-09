@@ -1,0 +1,9 @@
+#content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    max-width: 860px;
+    padding: 2rem 1.6rem;
+}

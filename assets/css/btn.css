@@ -1,0 +1,17 @@
+.btn {
+    background-color: #ffb703;
+    border-radius: .4rem;
+    color: var(--clr-neutral);
+    font-size: var(--fz-xs);
+    font-weight: 600;
+    height: 4.2rem;
+    margin: 1.6rem 0;
+    padding: 2rem;
+    transition: all ease .3s;
+    width: 12rem;
+}
+
+.btn:hover {
+    background-color: #dd9f02;
+    transform: scale(1.2);
+}

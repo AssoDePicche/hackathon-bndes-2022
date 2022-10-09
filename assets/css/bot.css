@@ -1,0 +1,11 @@
+#bot {
+    height: 20rem;
+    margin-bottom: 2rem;
+    width: auto;
+}
+
+@media only screen and (min-width: 1440px) {
+    #bot {
+        height: 30rem;
+    }
+}

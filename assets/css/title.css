@@ -1,0 +1,15 @@
+.title {
+    font-size: var(--fz-lg);
+    font-weight: 600;
+}
+
+.title span {
+    display: block;
+    font-weight: 600;
+    font-size: var(--fz-xlg);
+}
+
+.paragraph {
+    font-size: var(--fz-df);
+    font-weight: 400;
+}
