@@ -27,8 +27,7 @@ Através de integrações com speech to text (fala para texto), reconhecimento f
 ### Marketing
 - [Robson Gomes](https://www.linkedin.com/in/ogoms/)
 
-## 🔧 Tecnologias 
-- Figma
+## 🔧 Tecnologias
 - HTML
 - CSS
 - Twilio API
