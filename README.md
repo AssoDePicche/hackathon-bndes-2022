@@ -8,12 +8,16 @@ No entanto, nem tudo são flores no empreendedorismo feminino. 55% dos negócios
 Somos um bot para whatsapp que busca agilizar o trabalho do agente de crédito e ajuda a levar o microcrédito ainda mais longe!
 Através de integrações com speech to text (fala para texto), reconhecimento facial para validação de documentos geramos acessibilidade para as pessoas, obtendo leads qualificados e reduzindo o alto custo de prospecção.
 
-## Quais são as vantagens de uilizar nosso serviço?
+## 🚀 Quais são as vantagens de uilizar nosso serviço?
 - Diminuir o custo de prospecção do microcrédito
 - Melhoria dos investimentos operacionais
 - Ganho em escala com o member get member
 - Baixo custo de implantação e manutenção comparado à criação de aplicativos
 - E acima de tudo, acreditamos no cliente que movimenta a economia, gera renda e faz a diferença através do seu negócio!
+
+## 🔍 Como falar com a Credi?
+Primeiro você precisa fazer sua autenticação, para isso basta enviar a mensagem abaixo ao bot e, após receber a mensagem de confimarção, envie um "Olá" e a Credi virá te atender
+- join attempt-fog
 
 ## 🔝 Equipe
 
