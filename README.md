@@ -1,5 +1,5 @@
 # Credi Bot
-
+![Banner](banner.png)
 Você sabia? No Brasil, 30 milhões de empreendedores são mulheres e quase metade dos lares brasileiros é sustentado por elas.
 São as mulheres que mais utilizam as redes sociais e ferramentas como o whatsapp, a qual já conta com mais de 120 milhões de usuários no Brasil, além de serem as melhores pagadoras de produtos financeiros.
 
