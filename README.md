@@ -15,7 +15,7 @@ Através de integrações com speech to text (fala para texto), reconhecimento f
 - Baixo custo de implantação e manutenção comparado à criação de aplicativos
 - E acima de tudo, acreditamos no cliente que movimenta a economia, gera renda e faz a diferença através do seu negócio!
 
-## Equipe ✨
+## 🔝 Equipe
 
 ### Desenvolvimento
 - [Jonathas Carvalho](https://www.linkedin.com/in/jonathasfcarvalho/)
@@ -27,12 +27,12 @@ Através de integrações com speech to text (fala para texto), reconhecimento f
 ### Marketing
 - [Robson Gomes](https://www.linkedin.com/in/ogoms/)
 
-## Tecnologias 🔧
+## 🔧 Tecnologias 
 - Figma
 - HTML
 - CSS
 - Twilio API
 
-## Links 🔗
-- [Landing Page](https://credibot.netlify.app/) 
+## 🔗 Links
+- [Landing Page](https://credibot.netlify.app/)
 - [Whatsapp](https://wa.me/14155238886)
