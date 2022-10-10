@@ -36,5 +36,5 @@ Primeiro você precisa fazer sua autenticação, para isso basta enviar a mensag
 
 ## 🔗 Links
 - [Landing Page](https://credibot.netlify.app/)
-- [Whatsapp](https://wa.me/14155238886)
-- [Apresentação](https://youtu.be/HA1AiwabzxM)
+- [Credi](https://wa.me/14155238886)
+- [Pitch](https://youtu.be/HA1AiwabzxM)
