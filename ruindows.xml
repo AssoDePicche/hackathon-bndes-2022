@@ -1,8 +1,0 @@
-<Response>
-<Say voice="alice">
-Olá, eu sou a Credi Bot. 
-
-Você está em contato com a Capital Cred, instituição de indicação de crédito adequado ao perfil para autônomos.  Somos uma instituição apoiada pelo BNDES, você pode saber mais em https://www.bndes.gov.br/.  
-</Say>
-<Play>http://demo.twilio.com/docs/classic.mp3</Play>
-</Response>
