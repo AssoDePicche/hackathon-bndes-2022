@@ -16,7 +16,7 @@ Através de integrações com speech to text (fala para texto), reconhecimento f
 - E acima de tudo, acreditamos no cliente que movimenta a economia, gera renda e faz a diferença através do seu negócio!
 
 ## 🔍 Como falar com a Credi?
-Primeiro você precisa fazer sua autenticação, para isso basta enviar a mensagem abaixo ao bot e, após receber a mensagem de confimarção, envie um "Olá" e a Credi virá te atender
+Primeiro você precisa fazer sua autenticação, para isso basta enviar a mensagem abaixo ao bot e, após receber a mensagem de confimarção, envie um "Olá" e a [Credi](https://wa.me/14155238886) virá te atender
 - join attempt-fog
 
 ## 🔝 Equipe
