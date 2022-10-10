@@ -32,8 +32,6 @@ Primeiro você precisa fazer sua autenticação, para isso basta enviar a mensag
 - [Robson Gomes](https://www.linkedin.com/in/ogoms/)
 
 ## 🔧 Tecnologias
-- HTML
-- CSS
 - Twilio API
 
 ## 🔗 Links
