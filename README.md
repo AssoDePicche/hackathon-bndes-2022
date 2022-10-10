@@ -35,3 +35,4 @@ Através de integrações com speech to text (fala para texto), reconhecimento f
 ## 🔗 Links
 - [Landing Page](https://credibot.netlify.app/)
 - [Whatsapp](https://wa.me/14155238886)
+- [Apresentação](https://youtu.be/HA1AiwabzxM)
